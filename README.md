@@ -5,7 +5,7 @@
 
 그러던중 구글에서 [앱 아키텍쳐 가이드](https://developer.android.com/jetpack/guide?hl=ko)라는 포스터로 가이드를 정의해 주었습니다.(쫌더 일찍 알았다면 헷갈리지 않았을텐데...)
 
-확실한건 MVVM == 구글 앱 아키텍쳐 가이드 는 아닌가 봅니다. 아래사진과 같이....
+확실한건 MVVM == 구글 앱 아키텍쳐 가이드 는 아닌가 봅니다. 아래사진과 같이 구글에서도 유사하다 했지 똑같다고 안한듯.....
 
 <div align="center">
 <img src = "https://user-images.githubusercontent.com/48902047/150828096-77c88c34-6106-4f8d-9137-ae80e77511bd.JPG">
